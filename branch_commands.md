@@ -1,3 +1,5 @@
+# This file will be only displayed in feature1 branch
+
 # Branch Commands
 
 1) git branch ---> to check in which branchwe are working on
@@ -19,5 +21,10 @@ Create a PR ---> it lets you tell others about changes you've pushed to a branch
 
 git pull origin main ---> used to fetch and download contents from a remote repo and immediately update the local repo to match that content.<br>
 
-<h>This file will be only displayed in feature1 branch</h>
+# Merge Conflicts
+An event that takes place when Git is unable to automatically resolve differences in code between two commits.<br>
+That is when two branch is having difference at the same place in their respective branch this causes merge conflicts<br>
+Now this conflicts need's to be resolved manually<br>
+
+
 
