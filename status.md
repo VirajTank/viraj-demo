@@ -1,4 +1,4 @@
-# add then commit 
+# add then commit then push
  
 # Steps to follow 
 1) change ---> modified (github does't know file is modifies)<br>
