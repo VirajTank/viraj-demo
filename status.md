@@ -2,7 +2,7 @@
  
 # Steps to follow 
 1) change ---> modified (github does't know file is modifies)<br>
-2) new file ---> untracket (github does't know new file is created)<br>
+2) new file ---> untracked (github does't know new file is created)<br>
 3) add ---> staged (file is ready to be commited)<br>
 4) commit ---> unmodified (now file will be displayed as unchanged)<br> 
 5) push ---> upload local repo content to remote repo<br>
