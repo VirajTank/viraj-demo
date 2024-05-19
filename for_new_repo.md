@@ -14,3 +14,4 @@
 7) git branch :- to check branch<br>
 8) git bracnch -M main :- to rename branch<br>
 9) git push origin main<br>
+...
